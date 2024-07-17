@@ -1,0 +1,1 @@
+window.location.replace("https://prod.ps.stonybrook.edu/psp/csprods/EMPLOYEE/CAMP/h/?tab=DEFAULT");
